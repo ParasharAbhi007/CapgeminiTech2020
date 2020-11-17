@@ -1,4 +1,4 @@
-# CapgeminiTech2020
+# CapgeminiTech2020 Include solution for both 1 and 2 problem.
 # Challenge 1
 ## Document Analysis Solution using Amazon Textract, Amazon Comprehend and Amazon A2I
 As business grow, there is a commensurate growth in the number of documents that need to be analyzed. Traditionally, businesses had to manually review documents as they came in, but now, this process can be automated with help of Machine Learning and Artificial Intelligence technologies in Amazon Web Services.
